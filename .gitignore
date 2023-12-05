@@ -3,3 +3,4 @@ tests/__pycache__/*
 utilities/__pycache__/*
 .pytest_cache
 utilities.egg-info/*
+tests/test_*exo*_*
